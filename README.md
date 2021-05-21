@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Joey Piccola. I'm an infrastructure automation engineer focusing on immutable infrastructure through code. I love what I do!
+My name is Joey Piccola. I'm an infrastructure automation engineer focusing on immutable infrastructure through code.
 
 - 🔭  I’m currently working on...
 
