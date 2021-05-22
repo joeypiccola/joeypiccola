@@ -4,9 +4,9 @@ My name is Joey Piccola. I'm an infrastructure automation engineer focusing on i
 
 - 🔭  I’m currently working on...
 
-  - Advanced usages of Terrafrom 🌿 / 🌊.. You can track my work in this area by checking out my [homelab-terraform](https://github.com/joeypiccola/homelab/tree/master/terraform) repo!
+  - Advanced usage with Terrafrom 🌿 / 🌊.. You can track my work in this area by checking out my [homelab-terraform](https://github.com/joeypiccola/homelab/tree/master/terraform) repo!
   - Chocolatey CI\CD packaging 📦
-  - More of an on-gong project, I continue to find services to run in Docker at home (moving to Kubernetes soon!). This work can be viewed here: [homelab-docker](https://github.com/joeypiccola/homelab-docker).
+  - More of an on-going project, I continue to find services to run in Docker at home (moving to Kubernetes soon!). This work can be viewed here: [homelab-docker](https://github.com/joeypiccola/homelab-docker).
 
 - 🌱  I’m currently learning Kubernetes deployments with Helm. This work can be seen here: [homelab-kubernetes](https://github.com/joeypiccola/homelab/tree/master/kubernetes/apps).
 
