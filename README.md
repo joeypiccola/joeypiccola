@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Joey Piccola. I'm an site reliability engineer focusing on immutable infrastructure through code. I love tinkering and working with awesome people.
+My name is Joey Piccola. I'm a site reliability engineer focusing on immutable infrastructure through code and contamination with Kubernetes. I love tinkering and working with awesome people.
 
 - 🔭  Homelab projects:
 
