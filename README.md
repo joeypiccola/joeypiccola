@@ -2,6 +2,8 @@
 
 My name is Joey Piccola. I'm a site reliability engineer focusing on immutable infrastructure through code and containerization with Kubernetes. I love tinkering and working with awesome people.
 
+Active project: learning go
+
 - 🔭  Homelab projects:
 
   - Kubernetes with Talos Linux deployed with Terraform [link](https://github.com/joeypiccola/k8s_home/blob/main/terraform/main.tf).
